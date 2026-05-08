@@ -1,0 +1,148 @@
+{
+  "Navigation": {
+    "about": "À propos",
+    "history": "Histoire",
+    "archive": "Archives",
+    "culture": "Culture",
+    "monitor": "Observatoire",
+    "join": "Rejoignez-nous"
+  },
+  "Hero": {
+    "badge": "Archives Numériques Disponibles",
+    "title1": "Dévoiler la",
+    "title_highlight": "Vérité.",
+    "title2": "Restaurer l'Histoire.",
+    "description": "Une plateforme internationale dédiée à la correction du récit historique et à la préservation de l'héritage intellectuel de la communauté alaouite avec rigueur académique.",
+    "explore": "Explorer les Archives",
+    "mission": "Lire Notre Mission",
+    "scroll": "Défiler"
+  },
+  "Pillars": {
+    "rigor_title": "Rigueur Académique",
+    "rigor_desc": "Fournir des documents historiques vérifiés, des traductions et des études évaluées par des pairs pour contrer la désinformation.",
+    "archive_title": "Archives Numériques",
+    "archive_desc": "Un vaste dépôt consultable de manuscrits et de textes, préservés et numérisés pour les chercheurs du monde entier.",
+    "legal_title": "Réponse Juridique",
+    "legal_desc": "Surveiller les discours de haine et les distorsions systémiques, et répondre par des actions juridiques et académiques sur la scène mondiale."
+  },
+  "Archive": {
+    "title": "Archives Numériques",
+    "subtitle": "Un dépôt organisé de manuscrits historiques, d'études académiques et de documents vérifiés.",
+    "search_placeholder": "Rechercher dans les archives...",
+    "filters": "Filtres",
+    "type": "Type de Document",
+    "era": "Époque Historique",
+    "types": {
+      "manuscript": "Manuscrits",
+      "study": "Études Académiques",
+      "document": "Documents Officiels",
+      "testimony": "Témoignages"
+    },
+    "eras": {
+      "medieval": "Période Médiévale",
+      "ottoman": "Époque Ottomane",
+      "mandate": "Mandat Français",
+      "modern": "Époque Moderne"
+    },
+    "view_document": "Voir le Document",
+    "download": "Télécharger PDF"
+  },
+  "Monitor": {
+    "title": "Observatoire des Discours de Haine",
+    "subtitle": "Suivre, analyser et répondre à la distorsion systémique et aux discours de haine à l'échelle mondiale.",
+    "report_incident": "Signaler un Incident",
+    "legal_responses": "Réponses Juridiques",
+    "incidents_map": "Incidents Récents",
+    "categories": {
+      "media": "Distorsion Médiatique",
+      "political": "Rhétorique Politique",
+      "cyber": "Cyber-harcèlement",
+      "religious": "Incitation Religieuse"
+    },
+    "form": {
+      "title": "Documenter un Nouvel Incident",
+      "desc": "Aidez-nous à suivre la désinformation. Toutes les soumissions sont traitées avec la plus stricte confidentialité.",
+      "link_label": "Lien Source / Preuve",
+      "type_label": "Type d'Incident",
+      "details_label": "Description",
+      "submit": "Soumettre le Rapport"
+    },
+    "download_template": "Télécharger le Modèle d'Avis Juridique"
+  },
+  "Join": {
+    "title": "Rejoignez Aletheia",
+    "subtitle": "Nous recherchons des personnes passionnées pour nous aider à restaurer l'histoire et promouvoir la vérité académique.",
+    "roles": {
+      "translator": {
+        "title": "Traducteur / Éditeur",
+        "desc": "Aidez-nous à traduire des manuscrits et des études en anglais, français ou allemand."
+      },
+      "researcher": {
+        "title": "Chercheur Académique",
+        "desc": "Contribuer à des études évaluées par des pairs et à l'analyse historique."
+      },
+      "creator": {
+        "title": "Créateur de Contenu",
+        "desc": "Créer un contenu visuel attrayant pour atteindre un public mondial plus large."
+      },
+      "legal": {
+        "title": "Expert Juridique",
+        "desc": "Aider à surveiller et à répondre aux discours de haine systémiques."
+      }
+    },
+    "form": {
+      "name": "Nom Complet",
+      "email": "Adresse Email",
+      "role": "Rôle Souhaité",
+      "portfolio": "Lien vers le Portfolio / CV",
+      "submit": "Postuler Maintenant"
+    }
+  },
+  "About": {
+    "title": "À Propos",
+    "subtitle": "Aletheia est une plateforme numérique indépendante et à but non lucratif dédiée à la correction du récit historique et à la présentation de l'héritage intellectuel de la communauté alaouite avec rigueur académique et objectivité.",
+    "mission_title": "Notre Mission",
+    "mission_desc": "Pendant des siècles, la communauté alaouite a été soumise à des distorsions historiques, à la marginalisation et à de fausses représentations. Notre mission est de construire des archives numériques centralisées et académiquement vérifiées qui corrigent ces récits, rendant l'histoire véritable et l'héritage philosophique accessibles aux chercheurs, aux universitaires et au grand public.",
+    "vision_title": "Notre Vision",
+    "vision_desc": "Nous envisageons un monde où l'histoire n'est pas écrite par les vainqueurs ou les oppresseurs, mais par des faits vérifiés, des textes originaux et une vérité objective. Aletheia sert de pont entre le passé et l'avenir, garantissant que le riche patrimoine culturel et intellectuel de la communauté soit préservé et respecté.",
+    "values_title": "Nos Valeurs Fondamentales",
+    "values": {
+      "rigor_title": "Rigueur Académique",
+      "rigor_desc": "Tous les documents et affirmations s'appuient sur des sources primaires vérifiées et des recherches évaluées par des pairs.",
+      "objectivity_title": "Objectivité",
+      "objectivity_desc": "Nous présentons l'histoire telle qu'elle est, dépouillée de tout parti pris idéologique ou sectaire.",
+      "accessibility_title": "Accessibilité",
+      "accessibility_desc": "Nos archives sont ouvertes à tous—traduisant d'anciens manuscrits dans des langues modernes pour atteindre un public mondial.",
+      "protection_title": "Protection",
+      "protection_desc": "Nous surveillons activement et controns légalement les discours de haine organisés et les campagnes de diffamation systémiques."
+    }
+  },
+  "History": {
+    "title": "Histoire",
+    "subtitle": "Explorez l'histoire chronologique, déconstruisez les mythes historiques et découvrez les véritables origines et l'évolution de la communauté à travers des documents vérifiés.",
+    "eras": {
+      "medieval_title": "Période Médiévale & Origines",
+      "medieval_desc": "Retracer les racines de la communauté au Levant, examiner les premières formations philosophiques et théologiques, et aborder les premières vagues de déplacement.",
+      "ottoman_title": "L'Époque Ottomane",
+      "ottoman_desc": "Une période définie par la marginalisation et la persécution systémique. Documenter les fatwas, les sanctions économiques et la résilience des communautés de montagne pour préserver leur identité et leur patrimoine.",
+      "mandate_title": "Le Mandat Français",
+      "mandate_desc": "Déconstruire les récits coloniaux. Examiner les mouvements politiques, les chefs de la résistance (comme Saleh al-Ali) et la relation complexe avec les autorités du mandat à travers des archives authentiques.",
+      "modern_title": "Époque Moderne & Construction de l'État",
+      "modern_desc": "Analyser l'intégration dans l'État moderne, les transformations socio-économiques et la lutte continue pour une représentation égale et la justice historique dans le Moyen-Orient contemporain."
+    }
+  },
+  "Culture": {
+    "title": "Culture & Société",
+    "subtitle": "Découvrez les riches traditions, la profondeur philosophique, les arts et le tissu social résilient d'une communauté qui a survécu à des siècles de marginalisation.",
+    "topics": {
+      "philosophy_title": "Héritage Philosophique",
+      "philosophy_desc": "Enraciné dans de profondes traditions ésotériques et des influences néoplatoniciennes, l'héritage philosophique met l'accent sur la liberté intellectuelle, les interprétations allégoriques et une connexion spirituelle profonde avec le cosmos.",
+      "literature_title": "Littérature & Poésie",
+      "literature_desc": "Des œuvres classiques d'Al-Makzun Al-Sinjari aux figures littéraires modernes. La poésie a historiquement été un outil pour préserver la théologie, exprimer la souffrance et maintenir l'identité communautaire en temps de persécution.",
+      "ethics_title": "Tissu Social & Éthique",
+      "ethics_desc": "Une société profondément égalitaire mettant l'accent sur la solidarité communautaire, l'entraide et des codes éthiques stricts. Historiquement, les femmes ont joué des rôles centraux dans l'éducation et le leadership spirituel.",
+      "folk_title": "Traditions Folkloriques",
+      "folk_desc": "Le mode de vie agraire de montagne a donné naissance à des traditions musicales uniques, des festivals agricoles et des rituels communautaires qui célèbrent les saisons et honorent les figures historiques."
+    }
+  }
+}

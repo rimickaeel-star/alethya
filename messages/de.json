@@ -1,0 +1,148 @@
+{
+  "Navigation": {
+    "about": "Über uns",
+    "history": "Geschichte",
+    "archive": "Archiv",
+    "culture": "Kultur",
+    "monitor": "Beobachtungsstelle",
+    "join": "Mitmachen"
+  },
+  "Hero": {
+    "badge": "Digitales Archiv jetzt online",
+    "title1": "Die",
+    "title_highlight": "Wahrheit",
+    "title2": "enthüllen. Geschichte wiederherstellen.",
+    "description": "Eine internationale Plattform zur Korrektur des historischen Narrativs und zur Aufarbeitung des intellektuellen Erbes der alawitischen Gemeinschaft mit akademischer Strenge.",
+    "explore": "Archiv durchsuchen",
+    "mission": "Unsere Mission lesen",
+    "scroll": "Scrollen"
+  },
+  "Pillars": {
+    "rigor_title": "Akademische Strenge",
+    "rigor_desc": "Bereitstellung verifizierter historischer Dokumente, Übersetzungen und peer-reviewter Studien zur Bekämpfung von Fehlinformationen.",
+    "archive_title": "Digitales Archiv",
+    "archive_desc": "Ein riesiges, durchsuchbares Repository von Manuskripten und Texten, die für globale Forscher bewahrt und digitalisiert wurden.",
+    "legal_title": "Rechtliche Antwort",
+    "legal_desc": "Überwachung von Hassreden und systematischen Verzerrungen sowie rechtliche und akademische Maßnahmen auf globaler Ebene."
+  },
+  "Archive": {
+    "title": "Digitales Archiv",
+    "subtitle": "Ein kuratiertes Repository von historischen Manuskripten, akademischen Studien und verifizierten Dokumenten.",
+    "search_placeholder": "Archiv durchsuchen...",
+    "filters": "Filter",
+    "type": "Dokumenttyp",
+    "era": "Historische Ära",
+    "types": {
+      "manuscript": "Manuskripte",
+      "study": "Akademische Studien",
+      "document": "Offizielle Dokumente",
+      "testimony": "Zeugnisse"
+    },
+    "eras": {
+      "medieval": "Mittelalter",
+      "ottoman": "Osmanische Ära",
+      "mandate": "Französisches Mandat",
+      "modern": "Moderne Ära"
+    },
+    "view_document": "Dokument ansehen",
+    "download": "PDF Herunterladen"
+  },
+  "Monitor": {
+    "title": "Beobachtungsstelle für Hassrede",
+    "subtitle": "Verfolgung, Analyse und Reaktion auf systematische Verzerrungen und Hassreden weltweit.",
+    "report_incident": "Einen Vorfall melden",
+    "legal_responses": "Rechtliche Reaktionen",
+    "incidents_map": "Aktuelle Vorfälle",
+    "categories": {
+      "media": "Verzerrung in den Medien",
+      "political": "Politische Rhetorik",
+      "cyber": "Cyber-Mobbing",
+      "religious": "Religiöse Aufhetzung"
+    },
+    "form": {
+      "title": "Einen neuen Vorfall dokumentieren",
+      "desc": "Helfen Sie uns, Fehlinformationen zu verfolgen. Alle Einreichungen werden streng vertraulich behandelt.",
+      "link_label": "Quellenlink / Beweis",
+      "type_label": "Art des Vorfalls",
+      "details_label": "Beschreibung",
+      "submit": "Bericht einreichen"
+    },
+    "download_template": "Vorlage für rechtliche Hinweise herunterladen"
+  },
+  "Join": {
+    "title": "Schließen Sie sich Aletheia an",
+    "subtitle": "Wir suchen leidenschaftliche Menschen, die uns helfen, Geschichte wiederherzustellen und die akademische Wahrheit zu fördern.",
+    "roles": {
+      "translator": {
+        "title": "Übersetzer / Redakteur",
+        "desc": "Helfen Sie uns, Manuskripte und Studien ins Englische, Französische oder Deutsche zu übersetzen."
+      },
+      "researcher": {
+        "title": "Akademischer Forscher",
+        "desc": "Tragen Sie mit peer-reviewten Studien und historischen Analysen bei."
+      },
+      "creator": {
+        "title": "Content Creator",
+        "desc": "Erstellen Sie ansprechende visuelle Inhalte, um ein breiteres globales Publikum zu erreichen."
+      },
+      "legal": {
+        "title": "Rechtsexperte",
+        "desc": "Helfen Sie bei der Überwachung und Reaktion auf systematische Hassreden."
+      }
+    },
+    "form": {
+      "name": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "role": "Gewünschte Rolle",
+      "portfolio": "Link zum Portfolio / Lebenslauf",
+      "submit": "Jetzt bewerben"
+    }
+  },
+  "About": {
+    "title": "Über uns",
+    "subtitle": "Aletheia ist eine unabhängige, gemeinnützige digitale Plattform, die sich der Korrektur des historischen Narrativs und der Präsentation des intellektuellen Erbes der alawitischen Gemeinschaft mit akademischer Strenge widmet.",
+    "mission_title": "Unsere Mission",
+    "mission_desc": "Jahrhundertelang war die alawitische Gemeinschaft historischer Verzerrung, Marginalisierung und Falschdarstellung ausgesetzt. Unsere Mission ist es, ein zentrales, akademisch verifiziertes digitales Archiv aufzubauen, das diese Narrative korrigiert.",
+    "vision_title": "Unsere Vision",
+    "vision_desc": "Wir stellen uns eine Welt vor, in der Geschichte nicht von Siegern oder Unterdrückern geschrieben wird, sondern durch verifizierte Fakten und objektive Wahrheit. Aletheia dient als Brücke zwischen der Vergangenheit und der Zukunft.",
+    "values_title": "Unsere Kernwerte",
+    "values": {
+      "rigor_title": "Akademische Strenge",
+      "rigor_desc": "Alle Dokumente basieren auf verifizierten Primärquellen und peer-reviewter Forschung.",
+      "objectivity_title": "Objektivität",
+      "objectivity_desc": "Wir präsentieren Geschichte, wie sie ist, frei von ideologischen Voreingenommenheiten.",
+      "accessibility_title": "Zugänglichkeit",
+      "accessibility_desc": "Unsere Archive stehen allen offen – alte Manuskripte werden in moderne Sprachen übersetzt.",
+      "protection_title": "Schutz",
+      "protection_desc": "Wir überwachen und bekämpfen rechtlich organisierte Hassreden und systematische Diffamierungen."
+    }
+  },
+  "History": {
+    "title": "Geschichte",
+    "subtitle": "Erkunden Sie die chronologische Geschichte, dekonstruieren Sie historische Mythen und entdecken Sie die wahren Ursprünge der Gemeinschaft durch verifizierte Dokumente.",
+    "eras": {
+      "medieval_title": "Mittelalter & Ursprünge",
+      "medieval_desc": "Verfolgung der Wurzeln der Gemeinschaft in der Levante und Untersuchung früher philosophischer Formationen.",
+      "ottoman_title": "Die osmanische Ära",
+      "ottoman_desc": "Eine von Marginalisierung und Verfolgung geprägte Zeit. Dokumentation von Fatwas und wirtschaftlichen Sanktionen.",
+      "mandate_title": "Das französische Mandat",
+      "mandate_desc": "Dekonstruktion der kolonialen Narrative und Untersuchung der politischen Bewegungen und Widerstandsführer.",
+      "modern_title": "Moderne Ära & Staatsaufbau",
+      "modern_desc": "Analyse der Integration in den modernen Staat und des anhaltenden Kampfes für historische Gerechtigkeit."
+    }
+  },
+  "Culture": {
+    "title": "Kultur & Gesellschaft",
+    "subtitle": "Entdecken Sie die reichen Traditionen, die philosophische Tiefe und das widerstandsfähige soziale Gefüge einer Gemeinschaft, die Jahrhunderte der Marginalisierung überlebt hat.",
+    "topics": {
+      "philosophy_title": "Philosophisches Erbe",
+      "philosophy_desc": "Verwurzelt in tiefen esoterischen Traditionen, betont das Erbe geistige Freiheit und eine Verbindung zum Kosmos.",
+      "literature_title": "Literatur & Poesie",
+      "literature_desc": "Von den klassischen Werken Al-Makzun Al-Sinjaris bis zu modernen literarischen Figuren.",
+      "ethics_title": "Soziales Gefüge & Ethik",
+      "ethics_desc": "Eine zutiefst egalitäre Gesellschaft, die Solidarität und strenge ethische Kodizes betont.",
+      "folk_title": "Volkstraditionen",
+      "folk_desc": "Die agrarische Lebensweise der Berge brachte einzigartige musikalische Traditionen und Feste hervor."
+    }
+  }
+}

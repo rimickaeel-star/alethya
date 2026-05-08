@@ -1,0 +1,148 @@
+{
+  "Navigation": {
+    "about": "Sobre nosotros",
+    "history": "Historia",
+    "archive": "Archivo",
+    "culture": "Cultura",
+    "monitor": "Observatorio",
+    "join": "Únete"
+  },
+  "Hero": {
+    "badge": "Archivo Digital Ya Disponible",
+    "title1": "Desvelando la",
+    "title_highlight": "Verdad.",
+    "title2": "Restaurando la Historia.",
+    "description": "Una plataforma internacional dedicada a corregir la narrativa histórica y presentar el legado intelectual de la comunidad alauita con rigor académico.",
+    "explore": "Explorar el Archivo",
+    "mission": "Leer Nuestra Misión",
+    "scroll": "Desplazarse"
+  },
+  "Pillars": {
+    "rigor_title": "Rigor Académico",
+    "rigor_desc": "Proporcionando documentos históricos verificados, traducciones y estudios revisados por pares.",
+    "archive_title": "Archivo Digital",
+    "archive_desc": "Un enorme repositorio de manuscritos y textos, preservados y digitalizados para investigadores globales.",
+    "legal_title": "Respuesta Legal",
+    "legal_desc": "Monitoreo de discursos de odio y distorsiones sistémicas, respondiendo con acción legal."
+  },
+  "Archive": {
+    "title": "Archivo Digital",
+    "subtitle": "Un repositorio curado de manuscritos históricos, estudios académicos y documentos verificados.",
+    "search_placeholder": "Buscar en el archivo...",
+    "filters": "Filtros",
+    "type": "Tipo de Documento",
+    "era": "Época Histórica",
+    "types": {
+      "manuscript": "Manuscritos",
+      "study": "Estudios Académicos",
+      "document": "Documentos Oficiales",
+      "testimony": "Testimonios"
+    },
+    "eras": {
+      "medieval": "Período Medieval",
+      "ottoman": "Época Otomana",
+      "mandate": "Mandato Francés",
+      "modern": "Época Moderna"
+    },
+    "view_document": "Ver Documento",
+    "download": "Descargar PDF"
+  },
+  "Monitor": {
+    "title": "Observatorio de Discursos de Odio",
+    "subtitle": "Rastreando, analizando y respondiendo a la distorsión sistémica a nivel mundial.",
+    "report_incident": "Reportar un Incidente",
+    "legal_responses": "Respuestas Legales",
+    "incidents_map": "Incidentes Recientes",
+    "categories": {
+      "media": "Distorsión en Medios",
+      "political": "Retórica Política",
+      "cyber": "Ciberacoso",
+      "religious": "Incitación Religiosa"
+    },
+    "form": {
+      "title": "Documentar un Nuevo Incidente",
+      "desc": "Ayúdanos a rastrear la desinformación. Todos los envíos son estrictamente confidenciales.",
+      "link_label": "Enlace de Origen / Evidencia",
+      "type_label": "Tipo de Incidente",
+      "details_label": "Descripción",
+      "submit": "Enviar Reporte"
+    },
+    "download_template": "Descargar Plantilla Legal"
+  },
+  "Join": {
+    "title": "Únete a Aletheia",
+    "subtitle": "Buscamos personas apasionadas para ayudarnos a restaurar la historia y promover la verdad académica.",
+    "roles": {
+      "translator": {
+        "title": "Traductor / Editor",
+        "desc": "Ayúdanos a traducir manuscritos al inglés, francés o alemán."
+      },
+      "researcher": {
+        "title": "Investigador Académico",
+        "desc": "Contribuir con análisis históricos revisados por pares."
+      },
+      "creator": {
+        "title": "Creador de Contenido",
+        "desc": "Crear contenido visual para llegar a una audiencia global."
+      },
+      "legal": {
+        "title": "Experto Legal",
+        "desc": "Ayuda a monitorear y responder a los discursos de odio sistémicos."
+      }
+    },
+    "form": {
+      "name": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "role": "Rol Deseado",
+      "portfolio": "Enlace al Portafolio / CV",
+      "submit": "Aplicar Ahora"
+    }
+  },
+  "About": {
+    "title": "Sobre Nosotros",
+    "subtitle": "Aletheia es una plataforma digital independiente dedicada a corregir la narrativa histórica de la comunidad alauita.",
+    "mission_title": "Nuestra Misión",
+    "mission_desc": "Durante siglos, la comunidad ha sido sometida a distorsión histórica. Nuestra misión es construir un archivo digital verificado.",
+    "vision_title": "Nuestra Visión",
+    "vision_desc": "Imaginamos un mundo donde la historia no sea escrita por los vencedores, sino por hechos verificados.",
+    "values_title": "Nuestros Valores",
+    "values": {
+      "rigor_title": "Rigor Académico",
+      "rigor_desc": "Todos los documentos están respaldados por fuentes primarias.",
+      "objectivity_title": "Objetividad",
+      "objectivity_desc": "Presentamos la historia tal como es, sin sesgos.",
+      "accessibility_title": "Accesibilidad",
+      "accessibility_desc": "Nuestros archivos están abiertos a todos.",
+      "protection_title": "Protección",
+      "protection_desc": "Contrarrestamos legalmente las campañas de difamación."
+    }
+  },
+  "History": {
+    "title": "Historia",
+    "subtitle": "Explora la historia cronológica y deconstruye los mitos a través de documentos verificados.",
+    "eras": {
+      "medieval_title": "Período Medieval y Orígenes",
+      "medieval_desc": "Rastreando las raíces de la comunidad en el Levante.",
+      "ottoman_title": "La Época Otomana",
+      "ottoman_desc": "Un período definido por la marginación y la persecución sistémica.",
+      "mandate_title": "El Mandato Francés",
+      "mandate_desc": "Deconstruyendo las narrativas coloniales.",
+      "modern_title": "Época Moderna y Construcción del Estado",
+      "modern_desc": "Analizando la integración en el estado moderno."
+    }
+  },
+  "Culture": {
+    "title": "Cultura y Sociedad",
+    "subtitle": "Descubre las ricas tradiciones, la profundidad filosófica y el tejido social resiliente.",
+    "topics": {
+      "philosophy_title": "Legado Filosófico",
+      "philosophy_desc": "Arraigado en profundas tradiciones esotéricas e influencias neoplatónicas.",
+      "literature_title": "Literatura y Poesía",
+      "literature_desc": "Desde las obras clásicas hasta figuras literarias modernas.",
+      "ethics_title": "Tejido Social y Ética",
+      "ethics_desc": "Una sociedad profundamente igualitaria que enfatiza la solidaridad.",
+      "folk_title": "Tradiciones Populares",
+      "folk_desc": "Rituales y festivales que celebran las estaciones y honran figuras históricas."
+    }
+  }
+}
