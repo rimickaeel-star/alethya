@@ -656,7 +656,7 @@ export default function ProtectionPage() {
                       <input 
                         type="text" 
                         required
-                        placeholder={isAr ? "مثال: ربيع ميخائيل ستارة" : "e.g. ربيع ميخائيل ستارة"}
+                        placeholder={isAr ? "مثال: سيبيل النصر" : "e.g. Sybill Al-Nasr"}
                         value={nameAr}
                         onChange={(e) => setNameAr(e.target.value)}
                         className="w-full bg-aletheia-black/50 border border-aletheia-gray/30 rounded px-4 py-3 focus:outline-none focus:border-aletheia-gold transition-colors text-right"
@@ -669,7 +669,7 @@ export default function ProtectionPage() {
                       <input 
                         type="text" 
                         required
-                        placeholder="e.g. Rabie Mikhael Star"
+                        placeholder="e.g. Sybill Al-Nasr"
                         value={nameEn}
                         onChange={(e) => setNameEn(e.target.value)}
                         className="w-full bg-aletheia-black/50 border border-aletheia-gray/30 rounded px-4 py-3 focus:outline-none focus:border-aletheia-gold transition-colors ltr"
