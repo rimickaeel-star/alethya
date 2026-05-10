@@ -75,6 +75,7 @@ export default function ProtectionPage() {
   // App UI State
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSubmitted, setIsSubmitted] = useState(false);
+  const [isAgreed, setIsAgreed] = useState(false);
   const [errorMsg, setErrorMsg] = useState("");
   const [db, setDb] = useState<IDBDatabase | null>(null);
   const [submissions, setSubmissions] = useState<Submission[]>([]);
@@ -602,6 +603,50 @@ export default function ProtectionPage() {
               ) : (
                 <form onSubmit={handleSubmit} className="space-y-6">
                   
+                  {/* Legal Guidelines for Admissibility */}
+                  <div className="border border-aletheia-gold/30 bg-aletheia-gold/5 p-6 rounded-xl space-y-4">
+                    <h3 className="text-sm font-bold text-aletheia-gold flex items-center gap-2 border-b border-aletheia-gold/20 pb-2">
+                      <span>⚖️</span>
+                      <span>
+                        {isAr 
+                          ? "الضوابط القانونية لتصوير فيديو الحماية (لاعتماده كدليل جنائي رقمي)" 
+                          : "Legal Guidelines for Protection Video (For Admissibility as Forensic Evidence)"}
+                      </span>
+                    </h3>
+                    <ul className="space-y-3 text-xs text-aletheia-cream/80 list-decimal pl-4 rtl:pl-0 rtl:pr-4 leading-relaxed">
+                      <li>
+                        <strong>{isAr ? "الأصالة والنزاهة الكاملة:" : "Absolute Originality & Integrity:"}</strong>{" "}
+                        {isAr 
+                          ? "يجب أن يكون الفيديو مسجلاً من كاميرا جهازك مباشرة ومحفوظاً بصيغته الأصلية الخام. يُمنع تماماً تطبيق أي فلاتر تحسين، قص، تسريع، دمج، أو تعديلات برمجية (مونتاج)." 
+                          : "The video file must be original and recorded directly via your camera lens. Applying any filters, edits, cuts, speedups, or software manipulations is strictly prohibited."}
+                      </li>
+                      <li>
+                        <strong>{isAr ? "تثبيت الهوية بالصوت والصورة:" : "Vocal & Visual Identity Proof:"}</strong>{" "}
+                        {isAr 
+                          ? "يجب إظهار ملامح وجهك بالكامل في بداية الفيديو بوضوح، والنطق شفهياً بصوت واضح باسمك الثلاثي الكامل ورقم وثيقتك الرسمية (الهوية الوطنية أو جواز السفر)." 
+                          : "Clearly show your entire face at the start of the clip, and verbally state your full triple name and your official identity document number (National ID or Passport)."}
+                      </li>
+                      <li>
+                        <strong>{isAr ? "توثيق الزمان والمكان:" : "Spatial & Temporal Context:"}</strong>{" "}
+                        {isAr 
+                          ? "يُفضل تفعيل علامة تحديد الموقع الجغرافي (GPS) بكاميرا الهاتف عند التصوير، مع النطق شفهياً في المقطع بمدينتك الحالية، وتاريخ اليوم، والوقت الحالي التقريبي." 
+                          : "Enable GPS metadata tags on your camera. Also, verbally declare your current city, today's date, and approximate local time during the recording."}
+                      </li>
+                      <li>
+                        <strong>{isAr ? "التسجيل المستمر دون انقطاع:" : "Continuous Unbroken Record:"}</strong>{" "}
+                        {isAr 
+                          ? "يجب أن يتم تسجيل المقطع بالكامل في لقطة واحدة مستمرة دون أي إيقاف مؤقت (Pause) لضمان عدم الطعن في تسلسل الحيازة الجنائية للدليل." 
+                          : "The capture must be recorded in a single continuous shot with no pauses or breaks to preserve the unbroken forensic chain of custody."}
+                      </li>
+                      <li>
+                        <strong>{isAr ? "التصريح بالمسار المعتاد:" : "Declaration of Standard Route:"}</strong>{" "}
+                        {isAr 
+                          ? "تحدث شفهياً في نهاية المقطع موضحاً مسار حركتك وتنقلك اليومي المعتاد وأي أرقام هواتف ترغب في تحديدها كجهة تواصل للطوارئ والإنقاذ." 
+                          : "Verbally state your typical daily commute route and any primary phone numbers you wish to delegate as emergency and rescue contacts."}
+                      </li>
+                    </ul>
+                  </div>
+                  
                   {/* Triple Name Inputs */}
                   <div className="grid md:grid-cols-2 gap-6">
                     <div>
@@ -761,6 +806,22 @@ export default function ProtectionPage() {
                     </span>
                   </div>
 
+                  {/* Legal Agreement Checkbox */}
+                  <div className="flex items-start gap-3 p-4 rounded-lg bg-aletheia-gold/10 border border-aletheia-gold/20 select-none">
+                    <input 
+                      type="checkbox" 
+                      id="legal-agreement"
+                      checked={isAgreed}
+                      onChange={(e) => setIsAgreed(e.target.checked)}
+                      className="mt-1 w-4 h-4 rounded text-aletheia-gold focus:ring-aletheia-gold border-aletheia-gray/40 bg-aletheia-black cursor-pointer"
+                    />
+                    <label htmlFor="legal-agreement" className="text-xs md:text-sm text-aletheia-cream/90 cursor-pointer leading-relaxed">
+                      {isAr 
+                        ? "أقر وأتعهد بالالتزام بالضوابط والتعليمات القانونية الموضحة أعلاه لضمان صلاحية وقبول الفيديو كدليل جنائي رقمي في المحاكم عند الحاجة." 
+                        : "I acknowledge and agree to comply with all legal requirements above to ensure the admissibility of this video as digital forensic evidence."}
+                    </label>
+                  </div>
+
                   {errorMsg && (
                     <div className="bg-red-500/10 border border-red-500/20 text-red-400 p-4 rounded text-sm">
                       {errorMsg}
@@ -769,8 +830,8 @@ export default function ProtectionPage() {
 
                   <button 
                     type="submit" 
-                    disabled={isSubmitting}
-                    className="w-full flex items-center justify-center gap-2 bg-aletheia-gold text-aletheia-black font-semibold py-4 rounded hover:bg-yellow-500 transition-colors text-lg disabled:opacity-50 cursor-pointer"
+                    disabled={isSubmitting || !isAgreed}
+                    className="w-full flex items-center justify-center gap-2 bg-aletheia-gold text-aletheia-black font-semibold py-4 rounded hover:bg-yellow-500 transition-colors text-lg disabled:opacity-40 disabled:cursor-not-allowed cursor-pointer"
                   >
                     {isSubmitting ? (
                       <>
