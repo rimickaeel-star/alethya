@@ -117,7 +117,8 @@
       "accessibility_desc": "Our archives are open to all—translating ancient manuscripts into modern languages to reach a global audience.",
       "protection_title": "Protection",
       "protection_desc": "We actively monitor and legally counter organized hate speech and systemic defamation campaigns."
-    }
+    },
+    "quote": "We do not read history to know where our ancestors were, but to understand why we are here today, and how we can be better tomorrow."
   },
   "History": {
     "title": "History",
@@ -130,7 +131,9 @@
       "mandate_title": "The French Mandate",
       "mandate_desc": "Deconstructing the colonial narratives. Examining the political movements, the resistance leaders (like Saleh al-Ali), and the complex relationship with the Mandate authorities through authentic archives.",
       "modern_title": "Modern Era & State Building",
-      "modern_desc": "Analyzing the integration into the modern state, the socio-economic transformations, and the ongoing struggle for equal representation and historical justice in the contemporary Middle East."
+      "modern_desc": "Analyzing the integration into the modern state, the socio-economic transformations, and the ongoing struggle for equal representation and historical justice in the contemporary Middle East.",
+      "future_title": "Our Future: Alawites Where to?",
+      "future_desc": "The ideology of survival."
     }
   },
   "Culture": {

@@ -115,7 +115,8 @@
       "accessibility_desc": "Nos archives sont ouvertes à tous—traduisant d'anciens manuscrits dans des langues modernes pour atteindre un public mondial.",
       "protection_title": "Protection",
       "protection_desc": "Nous surveillons activement et controns légalement les discours de haine organisés et les campagnes de diffamation systémiques."
-    }
+    },
+    "quote": "Nous ne lisons pas l'histoire pour savoir où étaient nos ancêtres, mais pour comprendre pourquoi nous sommes ici aujourd'hui, et comment nous pouvons être meilleurs demain."
   },
   "History": {
     "title": "Histoire",
@@ -128,7 +129,9 @@
       "mandate_title": "Le Mandat Français",
       "mandate_desc": "Déconstruire les récits coloniaux. Examiner les mouvements politiques, les chefs de la résistance (comme Saleh al-Ali) et la relation complexe avec les autorités du mandat à travers des archives authentiques.",
       "modern_title": "Époque Moderne & Construction de l'État",
-      "modern_desc": "Analyser l'intégration dans l'État moderne, les transformations socio-économiques et la lutte continue pour une représentation égale et la justice historique dans le Moyen-Orient contemporain."
+      "modern_desc": "Analyser l'intégration dans l'État moderne, les transformations socio-économiques et la lutte continue pour une représentation égale et la justice historique dans le Moyen-Orient contemporain.",
+      "future_title": "Notre avenir : Les Alaouites vers où ?",
+      "future_desc": "L'idéologie de la survie."
     }
   },
   "Culture": {

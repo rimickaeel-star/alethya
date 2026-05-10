@@ -59,6 +59,14 @@ export default function HistoryPage() {
               </p>
             </div>
 
+            <div className="relative">
+              <div className="absolute w-4 h-4 rounded-full bg-aletheia-gold -left-[41px] rtl:-right-[41px] top-2" />
+              <h3 className="text-2xl font-serif text-aletheia-gold mb-3">{t("eras.future_title")}</h3>
+              <p className="text-aletheia-cream/80 leading-relaxed font-serif italic text-lg text-aletheia-gold/90 mt-2">
+                {t("eras.future_desc")}
+              </p>
+            </div>
+
           </div>
 
         </div>

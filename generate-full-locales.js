@@ -115,7 +115,8 @@ const fr = {
       "accessibility_desc": "Nos archives sont ouvertes à tous—traduisant d'anciens manuscrits dans des langues modernes pour atteindre un public mondial.",
       "protection_title": "Protection",
       "protection_desc": "Nous surveillons activement et controns légalement les discours de haine organisés et les campagnes de diffamation systémiques."
-    }
+    },
+    "quote": "Nous ne lisons pas l'histoire pour savoir où étaient nos ancêtres, mais pour comprendre pourquoi nous sommes ici aujourd'hui, et comment nous pouvons être meilleurs demain."
   },
   "History": {
     "title": "Histoire",
@@ -128,7 +129,9 @@ const fr = {
       "mandate_title": "Le Mandat Français",
       "mandate_desc": "Déconstruire les récits coloniaux. Examiner les mouvements politiques, les chefs de la résistance (comme Saleh al-Ali) et la relation complexe avec les autorités du mandat à travers des archives authentiques.",
       "modern_title": "Époque Moderne & Construction de l'État",
-      "modern_desc": "Analyser l'intégration dans l'État moderne, les transformations socio-économiques et la lutte continue pour une représentation égale et la justice historique dans le Moyen-Orient contemporain."
+      "modern_desc": "Analyser l'intégration dans l'État moderne, les transformations socio-économiques et la lutte continue pour une représentation égale et la justice historique dans le Moyen-Orient contemporain.",
+      "future_title": "Notre avenir : Les Alaouites vers où ?",
+      "future_desc": "L'idéologie de la survie."
     }
   },
   "Culture": {
@@ -260,7 +263,8 @@ const de = {
       "accessibility_desc": "Unsere Archive stehen allen offen – alte Manuskripte werden in moderne Sprachen übersetzt.",
       "protection_title": "Schutz",
       "protection_desc": "Wir überwachen und bekämpfen rechtlich organisierte Hassreden und systematische Diffamierungen."
-    }
+    },
+    "quote": "Wir lesen Geschichte nicht, um zu wissen, wo unsere Vorfahren waren, sondern um zu verstehen, warum wir heute hier sind und wie wir morgen besser sein können."
   },
   "History": {
     "title": "Geschichte",
@@ -273,7 +277,9 @@ const de = {
       "mandate_title": "Das französische Mandat",
       "mandate_desc": "Dekonstruktion der kolonialen Narrative und Untersuchung der politischen Bewegungen und Widerstandsführer.",
       "modern_title": "Moderne Ära & Staatsaufbau",
-      "modern_desc": "Analyse der Integration in den modernen Staat und des anhaltenden Kampfes für historische Gerechtigkeit."
+      "modern_desc": "Analyse der Integration in den modernen Staat und des anhaltenden Kampfes für historische Gerechtigkeit.",
+      "future_title": "Unsere Zukunft: Alawiten Wohin?",
+      "future_desc": "Die Ideologie des Überlebens."
     }
   },
   "Culture": {
@@ -405,7 +411,8 @@ const es = {
       "accessibility_desc": "Nuestros archivos están abiertos a todos.",
       "protection_title": "Protección",
       "protection_desc": "Contrarrestamos legalmente las campañas de difamación."
-    }
+    },
+    "quote": "No leemos la historia para saber dónde estuvieron nuestros antepasados, sino para comprender por qué estamos aquí hoy y cómo podemos ser mejores mañana."
   },
   "History": {
     "title": "Historia",
@@ -418,7 +425,9 @@ const es = {
       "mandate_title": "El Mandato Francés",
       "mandate_desc": "Deconstruyendo las narrativas coloniales.",
       "modern_title": "Época Moderna y Construcción del Estado",
-      "modern_desc": "Analizando la integración en el estado moderno."
+      "modern_desc": "Analizando la integración en el estado moderno.",
+      "future_title": "Nuestro futuro: ¿Alauitas hacia dónde?",
+      "future_desc": "La ideología de la supervivencia."
     }
   },
   "Culture": {

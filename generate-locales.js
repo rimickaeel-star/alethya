@@ -113,7 +113,8 @@ const en = {
       accessibility_desc: "Our archives are open to all—translating ancient manuscripts into modern languages to reach a global audience.",
       protection_title: "Protection",
       protection_desc: "We actively monitor and legally counter organized hate speech and systemic defamation campaigns."
-    }
+    },
+    quote: "We do not read history to know where our ancestors were, but to understand why we are here today, and how we can be better tomorrow."
   },
   History: {
     title: "History",
@@ -126,7 +127,9 @@ const en = {
       mandate_title: "The French Mandate",
       mandate_desc: "Deconstructing the colonial narratives. Examining the political movements, the resistance leaders (like Saleh al-Ali), and the complex relationship with the Mandate authorities through authentic archives.",
       modern_title: "Modern Era & State Building",
-      modern_desc: "Analyzing the integration into the modern state, the socio-economic transformations, and the ongoing struggle for equal representation and historical justice in the contemporary Middle East."
+      modern_desc: "Analyzing the integration into the modern state, the socio-economic transformations, and the ongoing struggle for equal representation and historical justice in the contemporary Middle East.",
+      future_title: "Our Future: Alawites Where to?",
+      future_desc: "The ideology of survival."
     }
   },
   Culture: {
@@ -258,7 +261,8 @@ const ar = {
       accessibility_desc: "أرشيفاتنا مفتوحة للجميع، مع ترجمة المخطوطات القديمة إلى اللغات الحديثة للوصول إلى جمهور عالمي.",
       protection_title: "الحماية",
       protection_desc: "نرصد بنشاط ونواجه قانونياً خطاب الكراهية المنظم وحملات التشهير الممنهجة."
-    }
+    },
+    quote: "نحن لا نقرأ التاريخ لنعرف أين كان أجدادنا، بل لنفهم لماذا نحن هنا اليوم، وكيف يمكننا أن نكون أفضل غداً."
   },
   History: {
     title: "التاريخ",
@@ -271,7 +275,9 @@ const ar = {
       mandate_title: "الانتداب الفرنسي",
       mandate_desc: "تفكيك السرديات الاستعمارية. فحص الحركات السياسية، قادة المقاومة (مثل الشيخ صالح العلي)، والعلاقة المعقدة مع سلطات الانتداب من خلال أرشيفات أصلية.",
       modern_title: "العصر الحديث وبناء الدولة",
-      modern_desc: "تحليل الاندماج في الدولة الحديثة، التحولات الاجتماعية والاقتصادية، والنضال المستمر من أجل التمثيل المتساوي والعدالة التاريخية في الشرق الأوسط المعاصر."
+      modern_desc: "تحليل الاندماج في الدولة الحديثة، التحولات الاجتماعية والاقتصادية، والنضال المستمر من أجل التمثيل المتساوي والعدالة التاريخية في الشرق الأوسط المعاصر.",
+      future_title: "مستقبلنا: العلويين إلى أين؟",
+      future_desc: "أيديولوجية البقاء."
     }
   },
   Culture: {

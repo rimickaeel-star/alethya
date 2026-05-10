@@ -115,7 +115,8 @@
       "accessibility_desc": "Nuestros archivos están abiertos a todos.",
       "protection_title": "Protección",
       "protection_desc": "Contrarrestamos legalmente las campañas de difamación."
-    }
+    },
+    "quote": "No leemos la historia para saber dónde estuvieron nuestros antepasados, sino para comprender por qué estamos aquí hoy y cómo podemos ser mejores mañana."
   },
   "History": {
     "title": "Historia",
@@ -128,7 +129,9 @@
       "mandate_title": "El Mandato Francés",
       "mandate_desc": "Deconstruyendo las narrativas coloniales.",
       "modern_title": "Época Moderna y Construcción del Estado",
-      "modern_desc": "Analizando la integración en el estado moderno."
+      "modern_desc": "Analizando la integración en el estado moderno.",
+      "future_title": "Nuestro futuro: ¿Alauitas hacia dónde?",
+      "future_desc": "La ideología de la supervivencia."
     }
   },
   "Culture": {

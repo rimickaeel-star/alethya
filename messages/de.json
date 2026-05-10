@@ -115,7 +115,8 @@
       "accessibility_desc": "Unsere Archive stehen allen offen – alte Manuskripte werden in moderne Sprachen übersetzt.",
       "protection_title": "Schutz",
       "protection_desc": "Wir überwachen und bekämpfen rechtlich organisierte Hassreden und systematische Diffamierungen."
-    }
+    },
+    "quote": "Wir lesen Geschichte nicht, um zu wissen, wo unsere Vorfahren waren, sondern um zu verstehen, warum wir heute hier sind und wie wir morgen besser sein können."
   },
   "History": {
     "title": "Geschichte",
@@ -128,7 +129,9 @@
       "mandate_title": "Das französische Mandat",
       "mandate_desc": "Dekonstruktion der kolonialen Narrative und Untersuchung der politischen Bewegungen und Widerstandsführer.",
       "modern_title": "Moderne Ära & Staatsaufbau",
-      "modern_desc": "Analyse der Integration in den modernen Staat und des anhaltenden Kampfes für historische Gerechtigkeit."
+      "modern_desc": "Analyse der Integration in den modernen Staat und des anhaltenden Kampfes für historische Gerechtigkeit.",
+      "future_title": "Unsere Zukunft: Alawiten Wohin?",
+      "future_desc": "Die Ideologie des Überlebens."
     }
   },
   "Culture": {
