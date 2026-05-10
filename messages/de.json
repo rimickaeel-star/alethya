@@ -5,7 +5,10 @@
     "archive": "Archiv",
     "culture": "Kultur",
     "monitor": "Beobachtungsstelle",
-    "join": "Mitmachen"
+    "join": "Mitmachen",
+    "media": "Medien",
+    "blog": "Blog",
+    "protection": "Schutz"
   },
   "Hero": {
     "badge": "Digitales Archiv jetzt online",

@@ -9,7 +9,8 @@ const fr = {
     "monitor": "Observatoire",
     "media": "Médias",
     "blog": "Blog",
-    "join": "Rejoignez-nous"
+    "join": "Rejoignez-nous",
+    "protection": "Sécurité"
   },
   "Hero": {
     "badge": "Archives Numériques Disponibles",
@@ -157,7 +158,10 @@ const de = {
     "archive": "Archiv",
     "culture": "Kultur",
     "monitor": "Beobachtungsstelle",
-    "join": "Mitmachen"
+    "join": "Mitmachen",
+    "media": "Medien",
+    "blog": "Blog",
+    "protection": "Schutz"
   },
   "Hero": {
     "badge": "Digitales Archiv jetzt online",
@@ -305,7 +309,10 @@ const es = {
     "archive": "Archivo",
     "culture": "Cultura",
     "monitor": "Observatorio",
-    "join": "Únete"
+    "join": "Únete",
+    "media": "Medios",
+    "blog": "Blog",
+    "protection": "Protección"
   },
   "Hero": {
     "badge": "Archivo Digital Ya Disponible",

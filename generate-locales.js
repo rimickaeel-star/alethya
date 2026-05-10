@@ -7,7 +7,10 @@ const en = {
     archive: "Archive",
     culture: "Culture",
     monitor: "Monitor",
-    join: "Join Us"
+    join: "Join Us",
+    media: "Media",
+    blog: "Blog",
+    protection: "Kidnap Protection"
   },
   Hero: {
     badge: "Digital Archive Now Live",
@@ -155,7 +158,10 @@ const ar = {
     archive: "الأرشيف",
     culture: "الثقافة",
     monitor: "المرصد",
-    join: "انضم إلينا"
+    join: "انضم إلينا",
+    media: "الوسائط",
+    blog: "المدونة",
+    protection: "حماية من الخطف"
   },
   Hero: {
     badge: "الأرشيف الرقمي متاح الآن",

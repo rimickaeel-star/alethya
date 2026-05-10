@@ -5,7 +5,10 @@
     "archive": "Archivo",
     "culture": "Cultura",
     "monitor": "Observatorio",
-    "join": "Únete"
+    "join": "Únete",
+    "media": "Medios",
+    "blog": "Blog",
+    "protection": "Protección"
   },
   "Hero": {
     "badge": "Archivo Digital Ya Disponible",

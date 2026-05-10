@@ -79,6 +79,9 @@ export default function Navbar() {
           <Link href="/blog" className="text-aletheia-cream/80 hover:text-aletheia-gold transition-colors text-sm font-medium tracking-wide uppercase">
             {t("blog")}
           </Link>
+          <Link href="/protection" className="text-aletheia-cream/80 hover:text-aletheia-gold transition-colors text-sm font-medium tracking-wide uppercase">
+            {t("protection")}
+          </Link>
         </div>
 
         {/* Desktop Actions */}
@@ -140,6 +143,7 @@ export default function Navbar() {
           <Link href="/culture" onClick={() => setIsMobileMenuOpen(false)} className="text-aletheia-cream text-lg font-serif">{t("culture")}</Link>
           <Link href="/media" onClick={() => setIsMobileMenuOpen(false)} className="text-aletheia-cream text-lg font-serif">{t("media")}</Link>
           <Link href="/blog" onClick={() => setIsMobileMenuOpen(false)} className="text-aletheia-cream text-lg font-serif">{t("blog")}</Link>
+          <Link href="/protection" onClick={() => setIsMobileMenuOpen(false)} className="text-aletheia-cream text-lg font-serif">{t("protection")}</Link>
           
           <hr className="border-aletheia-gray/30 my-2" />
           
