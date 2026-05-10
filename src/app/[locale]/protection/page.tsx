@@ -87,12 +87,12 @@ export default function ProtectionPage() {
   const [stats, setStats] = useState({
     totalCount: 1482, // Baseline mock stats
     locations: [
-      { name: isAr ? "بيروت" : "Beirut", count: 412 },
-      { name: isAr ? "اللاذقية" : "Latakia", count: 325 },
-      { name: isAr ? "دمشق" : "Damascus", count: 284 },
-      { name: isAr ? "طرطوس" : "Tartus", count: 220 },
-      { name: isAr ? "حلب" : "Aleppo", count: 141 },
-      { name: isAr ? "حمص" : "Homs", count: 100 },
+      { name: isAr ? "اللاذقية" : "Latakia", count: 482 },
+      { name: isAr ? "طرطوس" : "Tartus", count: 395 },
+      { name: isAr ? "جبلة" : "Jableh", count: 248 },
+      { name: isAr ? "بانياس" : "Baniyas", count: 184 },
+      { name: isAr ? "صافيتا" : "Safita", count: 112 },
+      { name: isAr ? "الدريكيش" : "Dreikish", count: 82 },
     ] as { name: string; count: number }[]
   });
 
